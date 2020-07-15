@@ -5,7 +5,7 @@
 I'm studying Informatica y Tecnología Multimedia at the Universidad de Costa Rica. I’ve been dedicating my time to cybersecurity so I can improve the way I secure my websites and apps. I participated at the program of the OAS Creating A Professional Career In Digital Security in 2019.
 
 ## Project I've done 🛠️
-Here there are a few projects built with the CMS Wordpress and hosting at AWS and Firebase.
+Here there are a few projects built with Wordpress and hosting at AWS and Firebase.
 
 ### Barbería Clandestina :haircut_man:
 <a href="https://barberiaclandestina.com">Barbería Clandestina </a>
