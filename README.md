@@ -2,7 +2,7 @@
 
 ## About Me ✒️
 
-I'm studying Informatica y Tecnología Multimedia at the Universidad de Costa Rica. I’ve been dedicating my time to cybersecurity so I can improve the way I secure my websites and apps. I participated at the program of the OAS Creating A Professional Career In Digital Security in 2019.
+Web Content Publisher with extensive experience leading CMS, such as AEM, Sitecore, and WordPress. With a strong front-end background, I am able to work efficiently on any web development project, applying best practices and demonstrating a deep understanding.
 
 ## Project I've done 🛠️
 Here there are a few projects built with Wordpress and hosting at AWS and Firebase.
@@ -11,13 +11,13 @@ Here there are a few projects built with Wordpress and hosting at AWS and Fireba
 <a href="https://barberiaclandestina.com">Barbería Clandestina </a>
 
 ### Informática y tecnología multimedia :desktop_computer:
-<a href="https://itmtest.site">Informática y tecnología multimedia</a>
+<a href="https://itmtest.site">Informática y tecnología multimedia <b>(Deprecated)</b></a>
 
 ### Gusticos Lomel :shallow_pan_of_food:
-<a href="https://gusticoslomel.com">Gusticos Lomel </a>
+<a href="https://gusticoslomel.com">Gusticos Lomel <b>(Deprecated)</b></a>
 
 ## Contact me :iphone:
 
 :large_blue_circle: <a href="https://www.linkedin.com/in/jean-carlos-brenes-zúñiga-1bb07b184">Jean Brenes</a>
 
-:bookmark_tabs: <a href="https://jeanbrenes.com/cv">Resume</a>
+:bookmark_tabs: <a href="https://jeanbrenes.com/cv">Resume <b>(Coming Soon)</b></a>
