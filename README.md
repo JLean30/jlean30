@@ -1,4 +1,4 @@
-# Hi there I'm Jean Brenes <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/cr.png"/>
+# Hey there I'm Jean Brenes <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/cr.png"/>
 
 ## About Me ✒️
 
