@@ -2,7 +2,7 @@
 
 ## About Me ✒️
 
-Web Content Publisher with extensive experience leading CMS, such as AEM, Sitecore, and WordPress. With a strong front-end background, I am able to work efficiently on any web development project, applying best practices and demonstrating a deep understanding.
+Senior Web Content Publisher with extensive experience leading CMS, such as AEM, Sitecore, and WordPress. With a strong front-end background, I am able to work efficiently on any web development project, applying best practices and demonstrating a deep understanding.
 
 ## Project I've done 🛠️
 Here there are a few projects built with Wordpress and hosting at AWS and Firebase.
